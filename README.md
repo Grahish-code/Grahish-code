@@ -1,3 +1,5 @@
+![logo](https://github.com/Grahish-code/Grahish-code/blob/main/building-the-fu_63646770.png)
+
 <h1 align="center">Hi 👋, I'm Grahish</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
 
