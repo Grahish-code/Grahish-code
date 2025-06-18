@@ -162,18 +162,6 @@ const grahish = {
 
 ---
 
-## 🔥 Current Streak
-
-<div align="center">
-  
-**Days I've been coding:** 
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Grahish-code&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 🌟 Let's Connect & Collaborate!
 
 <div align="center">
