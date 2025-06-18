@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Grahish-code/Grahish-code/blob/main/building-the-fu_63646770.png" alt="logo" width="100%">
+  <img src="https://github.com/Grahish-code/Grahish-code/blob/main/Profile BG - github.jpeg" alt="logo" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Grahish</h1>
