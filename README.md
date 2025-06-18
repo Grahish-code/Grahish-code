@@ -1,76 +1,229 @@
-<p align="center">
-  <img src="https://github.com/Grahish-code/Grahish-code/blob/main/Profile BG - github.jpeg" alt="logo" width="100%">
-</p>
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hey there! I'm **Grahish**
 
-<h1 align="center">Hi 👋, I'm Grahish</h1>
-<h3 align="center">Full-Stack & Mobile Developer | Real-time Systems | Flutter & Kotlin Specialist</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Mobile+Developer;Real-time+Systems+Expert;Flutter+%26+Kotlin+Specialist;CodeIgnite+Hackathon+Winner+2025;Building+the+Future+with+Code!" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Grahish-code&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+[![Profile Views](https://komarev.com/ghpvc/?username=grahish-code&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Grahish-code)
+[![GitHub followers](https://img.shields.io/github/followers/Grahish-code?label=Followers&style=for-the-badge&color=blue)](https://github.com/Grahish-code)
+[![GitHub stars](https://img.shields.io/github/stars/Grahish-code?label=Stars&style=for-the-badge&color=yellow)](https://github.com/Grahish-code)
 
----
-
-🚀 I'm a Computer Engineering student with a strong passion for cross-platform development, real-time systems, and performance optimization.
-
-- 🔭 Currently working on **real-time IoT data visualization apps** using Flutter and Kotlin.
-- 🌱 Learning and mastering the **MERN stack** and **Cloud technologies (AWS)**.
-- 🏆 **Winner** of CodeIgnite Hackathon 2025 for an innovative gamified educational app.
-- 📫 Reach me at **grahishgrahish@gmail.com**
-- 📍 Based in Navi Mumbai, India
+</div>
 
 ---
 
-### 🧠 My Technical Stack:
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc34c3a50c7d39b2c9279e1774f0cfc3f7c9c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427479702f67697068792e676966">
 
-#### 👨‍💻 Languages & Core:
-`Kotlin` `Dart` `Java` `JavaScript` `TypeScript` `C++` `PHP` `SQL`
+## 🚀 About Me
 
-#### 🧰 Frameworks & Tools:
-`Flutter` `Firebase` `Spring Boot` `Node.js` `SQLite` `MySQL` `RoomDB` `PostgreSQL` `Git` `GitHub` `Postman` `Figma` `Android Studio` `VS Code`
+```typescript
+const grahish = {
+    location: "Navi Mumbai, India 🇮🇳",
+    education: "Computer Engineering Student",
+    currentFocus: [
+        "Real-time IoT data visualization apps",
+        "Cross-platform mobile development",
+        "Performance optimization"
+    ],
+    learning: ["MERN Stack", "AWS Cloud Technologies"],
+    achievement: "🏆 CodeIgnite Hackathon Winner 2025",
+    contact: "grahishgrahish@gmail.com",
+    funFact: "I turn coffee into code! ☕️→💻"
+};
+```
 
-#### 📱 Development Domains:
-`Mobile App Development` | `Cross-Platform Apps` | `Real-Time Data Processing` | `REST APIs` | `UI/UX Design`
-
----
-
-### 🛠️ Featured Projects:
-
-- 🎓 [**EduApp**](https://github.com/Grahish-code/EduApp): Gamified learning app with YouTube API, 3-tier access control & 4.5⭐ user rating.
-- 📅 [**GDG Event App**](https://github.com/gdgpce/android-app): Real-time attendance & notifications system, used in 3 live events.
-- 💪 [**7 Minutes Workout**](https://github.com/Grahish-code/7MinutesWorkOut): Voice-guided fitness app with persistent history & crash-free stability.
-- 🎨 [**Drawing App for Kids**](https://github.com/Grahish-code/Drawing-App): Interactive drawing app with color/brush customization & bitmap optimization.
-
----
-
-### 📜 Certifications:
-
-- ✅ **Flutter Development Specialization** – Professional Certificate
-- ✅ **Android 14 & Kotlin Masterclass** – Udemy
-- ✅ **PHP Masterclass** – Udemy
-- ✅ **NPTEL Elite: DSA in Java**
+<br clear="right"/>
 
 ---
 
-### 🌐 Connect with Me:
+## 🛠️ Tech Arsenal
 
-<p align="left">
-  <a href="https://twitter.com/grahish230830" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/grahish-29438b252/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/grahishg6ora" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=GeeksforGeeks&logoColor=white"/></a>
-</p>
+<div align="center">
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=kotlin,dart,java,js,ts,cpp,php,python&theme=dark" />
+
+### 🧰 Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=flutter,firebase,spring,nodejs,mysql,postgres,git,github&theme=dark" />
+
+### 🔧 Development Environment
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,postman&theme=dark" />
+
+</div>
 
 ---
 
-### 📊 GitHub Stats:
+## 📊 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grahish-code&layout=compact&theme=react" alt="Top Languages" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Grahish-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grahish-code&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Grahish-code&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Grahish-code&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+</div>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 🏆 Featured Projects
 
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 EduApp
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Grahish-code&repo=EduApp&theme=tokyonight)](https://github.com/Grahish-code/EduApp)
+
+**Gamified Learning Platform**
+- 🎮 YouTube API Integration
+- 🔐 3-tier Access Control
+- ⭐ 4.5★ User Rating
+- 📱 Cross-platform Flutter App
+
+</td>
+<td width="50%">
+
+### 📅 GDG Event App
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gdgpce&repo=android-app&theme=tokyonight)](https://github.com/gdgpce/android-app)
+
+**Real-time Event Management**
+- ⚡ Live Attendance Tracking
+- 🔔 Push Notifications
+- 📊 Analytics Dashboard
+- 🎯 Used in 3+ Live Events
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💪 7 Minutes Workout
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Grahish-code&repo=7MinutesWorkOut&theme=tokyonight)](https://github.com/Grahish-code/7MinutesWorkOut)
+
+**AI-Powered Fitness Companion**
+- 🎤 Voice-guided Workouts
+- 📈 Progress Tracking
+- 💾 Persistent History
+- 🛡️ Crash-free Performance
+
+</td>
+<td width="50%">
+
+### 🎨 Drawing App for Kids
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Grahish-code&repo=Drawing-App&theme=tokyonight)](https://github.com/Grahish-code/Drawing-App)
+
+**Creative Digital Canvas**
+- 🎨 Advanced Brush System
+- 🌈 Color Palette
+- 🖼️ Bitmap Optimization
+- 👶 Kid-friendly Interface
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎯 Development Expertise
+
+<div align="center">
+
+| Domain | Technologies | Experience |
+|--------|-------------|------------|
+| 📱 **Mobile Development** | Flutter, Kotlin, Java | Expert |
+| 🌐 **Web Development** | MERN Stack, PHP, Node.js | Advanced |
+| ⚡ **Real-time Systems** | WebSockets, Firebase | Expert |
+| 🎨 **UI/UX Design** | Figma, Material Design | Advanced |
+| 🗄️ **Database** | MySQL, PostgreSQL, SQLite | Advanced |
+| ☁️ **Cloud & DevOps** | AWS, Firebase, Git | Intermediate |
+
+</div>
+
+---
+
+## 🏅 Certifications & Achievements
+
+<div align="center">
+
+```
+🏆 CodeIgnite Hackathon 2025 Winner
+✅ Flutter Development Specialization - Professional Certificate
+✅ Android 14 & Kotlin Masterclass - Udemy
+✅ PHP Masterclass - Udemy  
+✅ NPTEL Elite: Data Structures & Algorithms in Java
+```
+
+</div>
+
+---
+
+## 🔥 Current Streak
+
+<div align="center">
+  
+**Days I've been coding:** 
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Grahish-code&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🌟 Let's Connect & Collaborate!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/grahish)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Grahish-code)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/grahish)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grahishgrahish@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Developer Wisdom
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+---
+
+**"Code is like humor. When you have to explain it, it's bad."** - *Cory House*
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together!&descAlignY=51&descAlign=center"/>
+
+</div>
+
+<!--
+**Fun Facts About This Profile:**
+- 🎨 Uses dynamic typing animations
+- 📊 Real-time GitHub statistics
+- 🌈 Gradient designs and modern styling  
+- 📱 Mobile-responsive layout
+- ⚡ Interactive elements and hover effects
+- 🎯 Professional color scheme
+- 🚀 Performance optimized
+-->
+
+---
+
+<div align="center">
+  
+![Snake animation](https://github.com/Grahish-code/Grahish-code/blob/output/github-contribution-grid-snake.svg)
+
+</div>
