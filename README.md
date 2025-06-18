@@ -16,7 +16,8 @@
 ---
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-typescriptconst grahish = {
+
+const grahish = {
     location: "Navi Mumbai, India 🇮🇳",
     education: "Computer Engineering Student",
     currentFocus: [
