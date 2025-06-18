@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc34c3a50c7d39b2c9279e1774f0cfc3f7c9c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427479702f67697068792e676966">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ## 🚀 About Me
 
@@ -62,7 +62,9 @@ const grahish = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grahish-code&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Grahish-code&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -75,7 +77,7 @@ const grahish = {
 <td width="50%">
 
 ### 🎓 EduApp
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Grahish-code&repo=LearnPolis&theme=tokyonight)](https://github.com/Grahish-code/LearnPolis)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Grahish-code&repo=EduApp&theme=tokyonight)](https://github.com/Grahish-code/EduApp)
 
 **Gamified Learning Platform**
 - 🎮 YouTube API Integration
@@ -146,34 +148,82 @@ const grahish = {
 
 ---
 
-## 🏅 Certifications & Achievements
+## 🏆 Achievements & Milestones
 
 <div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=Grahish-code&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies" />
 
-```
-🏆 CodeIgnite Hackathon 2025 Winner
-✅ Flutter Development Specialization - Professional Certificate
-✅ Android 14 & Kotlin Masterclass - Udemy
-✅ PHP Masterclass - Udemy  
-✅ NPTEL Elite: Data Structures & Algorithms in Java
-```
+### 🎖️ Certifications & Awards
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🏆_Winner-CodeIgnite_2025-FFD700?style=for-the-badge&logo=trophy&logoColor=black" alt="Hackathon Winner"/>
+<br><strong>Hackathon Champion</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Flutter-Certified-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Certified"/>
+<br><strong>Flutter Expert</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Android-Master-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Master"/>
+<br><strong>Kotlin Specialist</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/NPTEL-Elite-FF6B35?style=for-the-badge&logo=academia&logoColor=white" alt="NPTEL Elite"/>
+<br><strong>DSA Expert</strong>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🌟 Let's Connect & Collaborate!
+## 🔥 Current Streak
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/grahish)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Grahish-code)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/grahish)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grahishgrahish@gmail.com)
+  
+**Days I've been coding:** 
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Grahish-code&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak" />
 
 </div>
 
 ---
+
+## 🤝 Let's Connect & Create Together!
+
+<div align="center">
+
+<a href="https://linkedin.com/in/grahish">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Grahish-code">
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+</a>
+<a href="https://instagram.com/grahish">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+</a>
+<a href="mailto:grahishgrahish@gmail.com">
+<img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+</a>
+
+### 🔥 Ready to collaborate on your next big idea?
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+<em><b>Open to opportunities</b> in Mobile Development, Real-time Systems, and IoT Projects!</em>
+
+</div>
+
+---
+
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Grahish-code&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+
+</div>
 
 <div align="center">
 
@@ -185,9 +235,7 @@ const grahish = {
 
 **"Code is like humor. When you have to explain it, it's bad."** - *Cory House*
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together!&descAlignY=51&descAlign=center"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Happy%20Coding!&descAlignY=51&descAlign=center"/>
 
 </div>
 
@@ -201,11 +249,3 @@ const grahish = {
 - 🎯 Professional color scheme
 - 🚀 Performance optimized
 -->
-
----
-
-<div align="center">
-  
-![Snake animation](https://github.com/Grahish-code/Grahish-code/blob/output/github-contribution-grid-snake.svg)
-
-</div>
