@@ -1,7 +1,8 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hey there! I'm **Grahish**
-
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hey there! I'm Grahish
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Mobile+Developer;Real-time+Systems+Expert;Flutter+%26+Kotlin+Specialist;CodeIgnite+Hackathon+Winner+2025;Building+the+Future+with+Code!" alt="Typing SVG" />
+</div>
+<div align="center">
 </div>
 
 <div align="center">
@@ -14,12 +15,8 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" style="margin-top: 300px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-## 🚀 About Me
-
-```typescript
-const grahish = {
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+typescriptconst grahish = {
     location: "Navi Mumbai, India 🇮🇳",
     education: "Computer Engineering Student",
     currentFocus: [
@@ -32,9 +29,8 @@ const grahish = {
     contact: "grahishgrahish@gmail.com",
     funFact: "I turn coffee into code! ☕️→💻"
 };
-```
-
 <br clear="right"/>
+
 
 ---
 
