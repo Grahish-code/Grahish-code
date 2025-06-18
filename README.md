@@ -1,8 +1,7 @@
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hey there! I'm Grahish
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hey there! I'm **Grahish**
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Mobile+Developer;Real-time+Systems+Expert;Flutter+%26+Kotlin+Specialist;CodeIgnite+Hackathon+Winner+2025;Building+the+Future+with+Code!" alt="Typing SVG" />
-</div>
-<div align="center">
 </div>
 
 <div align="center">
@@ -15,8 +14,11 @@
 
 ---
 
+## 🚀 About Me
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
+```typescript
 const grahish = {
     location: "Navi Mumbai, India 🇮🇳",
     education: "Computer Engineering Student",
@@ -30,8 +32,9 @@ const grahish = {
     contact: "grahishgrahish@gmail.com",
     funFact: "I turn coffee into code! ☕️→💻"
 };
-<br clear="right"/>
+```
 
+<br clear="right"/>
 
 ---
 
@@ -141,11 +144,9 @@ const grahish = {
 
 ---
 
-## 🏆 Achievements & Milestones
+## 🏆 Certifications & Awards
 
 <div align="center">
-
-### 🎖️ Certifications & Awards
 
 <table>
 <tr>
@@ -172,6 +173,7 @@ const grahish = {
 
 ---
 
+
 ## 🤝 Let's Connect & Create Together!
 
 <div align="center">
@@ -181,9 +183,6 @@ const grahish = {
 </a>
 <a href="https://github.com/Grahish-code">
 <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-</a>
-<a href="https://instagram.com/grahish">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
 </a>
 <a href="mailto:grahishgrahish@gmail.com">
 <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
@@ -197,6 +196,12 @@ const grahish = {
 </div>
 
 ---
+
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Grahish-code&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+
+</div>
 
 <div align="center">
 
