@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="400" style="margin-top: 30px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ## 🚀 About Me
 
@@ -151,8 +151,6 @@ const grahish = {
 ## 🏆 Achievements & Milestones
 
 <div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=Grahish-code&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies" />
 
 ### 🎖️ Certifications & Awards
 
@@ -176,18 +174,6 @@ const grahish = {
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 🔥 Current Streak
-
-<div align="center">
-  
-**Days I've been coding:** 
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Grahish-code&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak" />
 
 </div>
 
