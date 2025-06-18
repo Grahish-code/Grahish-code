@@ -30,7 +30,7 @@ const grahish = {
     learning: ["MERN Stack", "AWS Cloud Technologies"],
     achievement: "🏆 CodeIgnite Hackathon Winner 2025",
     contact: "grahishgrahish@gmail.com",
-    funFact: "I turn coffee into code! ☕️→💻"
+    funFact: "I turn Tea into code! ☕️→💻"
 };
 ```
 
@@ -73,7 +73,7 @@ const grahish = {
 <td width="50%">
 
 ### 🎓 EduApp
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Grahish-code&repo=EduApp&theme=tokyonight)](https://github.com/Grahish-code/EduApp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Grahish-code&repo=LearnPolis&theme=tokyonight)](https://github.com/Grahish-code/LearnPolis)
 
 **Gamified Learning Platform**
 - 🎮 YouTube API Integration
