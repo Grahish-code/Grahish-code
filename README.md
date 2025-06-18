@@ -75,7 +75,7 @@ const grahish = {
 <td width="50%">
 
 ### 🎓 EduApp
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Grahish-code&repo=EduApp&theme=tokyonight)](https://github.com/Grahish-code/EduApp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Grahish-code&repo=LearnPolis&theme=tokyonight)](https://github.com/Grahish-code/LearnPolis)
 
 **Gamified Learning Platform**
 - 🎮 YouTube API Integration
