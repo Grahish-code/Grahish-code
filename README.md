@@ -111,7 +111,7 @@ const grahish = {
 <td width="50%">
 
 ### 🎨 Drawing App for Kids
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Grahish-code&repo=Drawing-App&theme=tokyonight)](https://github.com/Grahish-code/Drawing-App)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Grahish-code&repo=KidDrawingApp&theme=tokyonight)](https://github.com/Grahish-code/KidDrawingApp/tree/master)
 
 **Creative Digital Canvas**
 - 🎨 Advanced Brush System
